@@ -1,0 +1,5 @@
+Notes -----
+
+Maybe we can try to get a risk percentage, like how much more risky has the last year or so been. like an RSI indicator or a vix
+
+scalar.fit_transform() in sklearn
