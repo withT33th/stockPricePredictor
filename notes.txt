@@ -6,3 +6,5 @@ scalar.fit_transform() in sklearn
 LSTM
 
 Thinking of adding indicators as well, namely RSI
+
+Scaler takes in the prices for the entire dataset.
